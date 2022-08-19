@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>DEMO</title>
+
+    </head>
+    <body>
+<h1 style="color:blue; background-color: black;">SOY MARCE</h1>
+<h2>Estoy aburrida</h2>
+<h3>que hacemos</h3>
+<p>Local expresys computadores</p>
+<DIV> <style>
+    ol{
+        color: aquamarine;
+
+    }
+    </style>
+    <ul>
+        <li>mouse</li>
+        <li>teclados</li>
+        <li>diademas</li>
+        <li>parlantes</li>
+    </ul>
+    <ol>
+    <li>pad mouse</li>
+    <li>audifonos</li>
+    <li>usb</li>
+    </ol>  
+</DIV>
+
+<a href="https://www-google.com/">link a google</a>
+
+    </body>
+</html>
